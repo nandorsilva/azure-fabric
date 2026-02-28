@@ -1,4 +1,4 @@
-# 🚀 Curso Microsoft Fabric — Lakehouse End-to-End com API Big Data
+# 🚀 Microsoft Azure Fabric
 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-blue)
 ![Lakehouse](https://img.shields.io/badge/Architecture-Lakehouse-green)
