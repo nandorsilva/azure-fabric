@@ -1,0 +1,201 @@
+produto_id,date,time,nome_produto,valor,categoria,status,departamento
+5,2026-02-02,02:09:31,Mochila Notebook 15.6,582.5,Acessórios,em baixa,Casa & Cozinha
+6,2026-02-02,22:18:54,Garrafa Térmica 750ml,314.19,Sustentável,em baixa,Beleza
+3,2026-02-02,17:07:50,Fone Bluetooth In-Ear,1735.26,Sustentável,em baixa,Beleza
+10,2026-02-02,06:17:37,Teclado Mecânico RGB,631.52,Infantil,ativo,Esportes
+8,2026-02-02,07:10:39,Liquidificador 1200W,472.92,Edição Especial,ativo,Moda
+13,2026-02-02,20:19:51,Câmera de Segurança Wi‑Fi,115.63,Importado,ativo,Moda
+29,2026-02-02,14:55:09,Boneco Colecionável,970.96,Sustentável,cancelado,Moda
+10,2026-02-02,19:39:46,Teclado Mecânico RGB,1487.84,Importado,em baixa,Eletrônicos
+6,2026-02-02,13:10:58,Garrafa Térmica 750ml,936.22,Premium,ativo,Beleza
+17,2026-02-02,21:46:57,Cabo USB‑C Reforçado 2m,1978.95,Acessórios,em baixa,Eletrônicos
+9,2026-02-02,16:13:53,Air Fryer 4L Digital,610.64,Importado,ativo,Beleza
+25,2026-02-02,10:00:47,Creme Hidratante 400ml,791.76,Infantil,cancelado,Moda
+19,2026-02-02,14:11:37,Kit Ferramentas 46 peças,2239.64,Sustentável,produzinho,Casa & Cozinha
+24,2026-02-02,11:58:19,Perfume Feminino 100ml,1977.18,Importado,em baixa,Beleza
+6,2026-02-02,19:46:06,Garrafa Térmica 750ml,2349.31,Sustentável,produzinho,Eletrônicos
+3,2026-02-02,18:06:08,Fone Bluetooth In-Ear,2046.44,Básico,produzinho,Beleza
+11,2026-02-02,06:37:14,Mouse Gamer 12000 DPI,1895.86,Premium,ativo,Eletrônicos
+13,2026-02-02,15:35:50,Câmera de Segurança Wi‑Fi,583.19,Importado,em baixa,Esportes
+18,2026-02-02,12:13:43,Organizador de Cabos,452.24,Básico,em baixa,Esportes
+17,2026-02-02,01:10:59,Cabo USB‑C Reforçado 2m,296.69,Premium,ativo,Moda
+3,2026-02-02,04:40:34,Fone Bluetooth In-Ear,1935.26,Importado,ativo,Eletrônicos
+22,2026-02-02,16:10:00,Toalha de Banho Premium,333.24,Edição Especial,em baixa,Moda
+29,2026-02-02,02:26:03,Boneco Colecionável,1908.95,Premium,em baixa,Casa & Cozinha
+1,2026-02-02,04:50:11,Camiseta Básica Algodão,2045.17,Importado,ativo,Eletrônicos
+19,2026-02-02,11:03:52,Kit Ferramentas 46 peças,2166.05,Importado,cancelado,Moda
+1,2026-02-02,19:23:00,Camiseta Básica Algodão,1104.55,Acessórios,produzinho,Esportes
+15,2026-02-02,22:51:05,Power Bank 20.000mAh,816.33,Importado,cancelado,Eletrônicos
+1,2026-02-02,07:43:29,Camiseta Básica Algodão,1721.08,Sustentável,em baixa,Esportes
+9,2026-02-02,20:02:38,Air Fryer 4L Digital,1339.36,Premium,cancelado,Moda
+19,2026-02-02,03:04:38,Kit Ferramentas 46 peças,1279.61,Sustentável,em baixa,Beleza
+16,2026-02-02,16:52:52,Carregador Turbo USB‑C,1062.14,Básico,em baixa,Eletrônicos
+3,2026-02-02,08:11:59,Fone Bluetooth In-Ear,1041.82,Edição Especial,produzinho,Esportes
+29,2026-02-02,18:23:01,Boneco Colecionável,2087.4,Importado,cancelado,Eletrônicos
+19,2026-02-02,23:13:43,Kit Ferramentas 46 peças,518.84,Básico,produzinho,Beleza
+3,2026-02-02,12:49:37,Fone Bluetooth In-Ear,74.17,Importado,ativo,Eletrônicos
+21,2026-02-02,09:40:45,Jogo de Lençol Queen,2092.47,Importado,ativo,Moda
+12,2026-02-02,09:35:19,"Monitor 24"" Full HD",2129.88,Acessórios,ativo,Eletrônicos
+9,2026-02-02,11:21:49,Air Fryer 4L Digital,996.34,Infantil,em baixa,Casa & Cozinha
+27,2026-02-02,03:24:45,Livro Best‑Seller,1668.89,Importado,em baixa,Moda
+23,2026-02-02,06:13:17,Perfume Masculino 100ml,2477.38,Importado,ativo,Eletrônicos
+7,2026-02-02,14:21:28,Cafeteira Elétrica 30xícaras,1330.54,Importado,ativo,Eletrônicos
+1,2026-02-02,00:57:52,Camiseta Básica Algodão,292.43,Premium,produzinho,Esportes
+22,2026-02-02,12:09:44,Toalha de Banho Premium,212.57,Edição Especial,produzinho,Beleza
+17,2026-02-02,01:02:16,Cabo USB‑C Reforçado 2m,978.23,Premium,em baixa,Beleza
+23,2026-02-02,03:25:37,Perfume Masculino 100ml,2095.54,Premium,cancelado,Beleza
+24,2026-02-02,22:15:28,Perfume Feminino 100ml,657.49,Sustentável,produzinho,Esportes
+18,2026-02-02,05:38:47,Organizador de Cabos,2412.26,Acessórios,em baixa,Casa & Cozinha
+12,2026-02-02,10:14:46,"Monitor 24"" Full HD",2315.78,Premium,produzinho,Beleza
+29,2026-02-02,19:58:56,Boneco Colecionável,2169.32,Edição Especial,cancelado,Beleza
+9,2026-02-02,02:11:43,Air Fryer 4L Digital,460.89,Acessórios,produzinho,Esportes
+16,2026-02-02,11:00:52,Carregador Turbo USB‑C,2002.26,Infantil,cancelado,Moda
+20,2026-02-02,00:06:56,Panela Antiaderente 24cm,1364.28,Premium,ativo,Moda
+1,2026-02-02,09:50:44,Camiseta Básica Algodão,991.21,Acessórios,cancelado,Beleza
+24,2026-02-02,05:29:34,Perfume Feminino 100ml,1780.57,Edição Especial,em baixa,Casa & Cozinha
+24,2026-02-02,22:30:31,Perfume Feminino 100ml,832.48,Edição Especial,em baixa,Moda
+4,2026-02-02,08:10:52,Smartwatch Fitness Pro,2073.61,Básico,cancelado,Eletrônicos
+24,2026-02-02,08:54:34,Perfume Feminino 100ml,1776.54,Importado,produzinho,Moda
+26,2026-02-02,22:13:55,Shampoo Reparação 500ml,965.3,Importado,ativo,Beleza
+1,2026-02-02,04:01:00,Camiseta Básica Algodão,1471.76,Premium,em baixa,Esportes
+9,2026-02-02,21:20:44,Air Fryer 4L Digital,456.31,Infantil,produzinho,Moda
+13,2026-02-02,15:03:36,Câmera de Segurança Wi‑Fi,2408.32,Básico,ativo,Moda
+19,2026-02-02,08:57:24,Kit Ferramentas 46 peças,951.63,Acessórios,cancelado,Casa & Cozinha
+14,2026-02-02,11:39:58,Lâmpada Smart LED,1061.12,Básico,cancelado,Beleza
+26,2026-02-02,21:30:49,Shampoo Reparação 500ml,271.16,Sustentável,em baixa,Eletrônicos
+12,2026-02-02,04:32:49,"Monitor 24"" Full HD",1905.61,Importado,ativo,Beleza
+21,2026-02-02,23:34:07,Jogo de Lençol Queen,1200.02,Infantil,cancelado,Beleza
+5,2026-02-02,16:01:35,Mochila Notebook 15.6,56.85,Infantil,cancelado,Moda
+22,2026-02-02,20:54:00,Toalha de Banho Premium,1329.35,Acessórios,em baixa,Eletrônicos
+19,2026-02-02,17:01:56,Kit Ferramentas 46 peças,1883.95,Sustentável,em baixa,Casa & Cozinha
+30,2026-02-02,20:31:11,Lego Compatível 500 peças,1884.72,Premium,cancelado,Beleza
+4,2026-02-02,05:53:21,Smartwatch Fitness Pro,1070.5,Premium,cancelado,Casa & Cozinha
+16,2026-02-02,08:04:35,Carregador Turbo USB‑C,2408.0,Infantil,cancelado,Beleza
+21,2026-02-02,03:54:41,Jogo de Lençol Queen,1293.03,Básico,ativo,Moda
+7,2026-02-02,04:53:40,Cafeteira Elétrica 30xícaras,1094.35,Edição Especial,produzinho,Casa & Cozinha
+22,2026-02-02,13:58:48,Toalha de Banho Premium,62.71,Infantil,cancelado,Eletrônicos
+8,2026-02-02,23:43:13,Liquidificador 1200W,2375.59,Importado,cancelado,Casa & Cozinha
+27,2026-02-02,04:44:35,Livro Best‑Seller,331.84,Sustentável,ativo,Esportes
+28,2026-02-02,01:16:05,Caderno Universitário 10 matérias,1275.57,Acessórios,ativo,Eletrônicos
+27,2026-02-02,10:19:31,Livro Best‑Seller,443.32,Importado,em baixa,Esportes
+23,2026-02-02,13:23:04,Perfume Masculino 100ml,1702.07,Infantil,em baixa,Moda
+23,2026-02-02,03:16:38,Perfume Masculino 100ml,624.12,Importado,produzinho,Eletrônicos
+30,2026-02-02,06:04:55,Lego Compatível 500 peças,1795.94,Sustentável,ativo,Eletrônicos
+2,2026-02-02,18:00:10,Tênis Running Leve,2467.93,Premium,produzinho,Eletrônicos
+7,2026-02-02,00:21:18,Cafeteira Elétrica 30xícaras,1859.41,Básico,cancelado,Casa & Cozinha
+1,2026-02-02,12:00:41,Camiseta Básica Algodão,1833.58,Importado,produzinho,Casa & Cozinha
+4,2026-02-02,01:13:52,Smartwatch Fitness Pro,641.32,Edição Especial,ativo,Esportes
+1,2026-02-02,18:05:19,Camiseta Básica Algodão,2333.82,Sustentável,cancelado,Beleza
+25,2026-02-02,02:00:49,Creme Hidratante 400ml,1563.34,Básico,cancelado,Esportes
+15,2026-02-02,10:32:28,Power Bank 20.000mAh,2371.91,Edição Especial,cancelado,Casa & Cozinha
+10,2026-02-02,00:21:03,Teclado Mecânico RGB,580.34,Importado,cancelado,Moda
+26,2026-02-02,16:36:53,Shampoo Reparação 500ml,1180.51,Infantil,ativo,Moda
+22,2026-02-02,05:10:52,Toalha de Banho Premium,280.77,Básico,em baixa,Casa & Cozinha
+25,2026-02-02,01:54:36,Creme Hidratante 400ml,968.6,Sustentável,em baixa,Moda
+15,2026-02-02,10:52:26,Power Bank 20.000mAh,1965.27,Premium,em baixa,Moda
+22,2026-02-02,11:32:37,Toalha de Banho Premium,179.55,Sustentável,ativo,Eletrônicos
+2,2026-02-02,15:39:54,Tênis Running Leve,2387.29,Infantil,ativo,Casa & Cozinha
+27,2026-02-02,12:13:08,Livro Best‑Seller,2084.39,Edição Especial,em baixa,Eletrônicos
+19,2026-02-02,13:57:09,Kit Ferramentas 46 peças,625.46,Acessórios,produzinho,Moda
+25,2026-02-02,10:44:23,Creme Hidratante 400ml,200.44,Acessórios,ativo,Beleza
+21,2026-02-02,08:16:19,Jogo de Lençol Queen,1041.16,Acessórios,produzinho,Moda
+26,2026-02-02,01:41:02,Shampoo Reparação 500ml,1836.82,Sustentável,produzinho,Esportes
+17,2026-02-02,20:34:58,Cabo USB‑C Reforçado 2m,742.15,Infantil,em baixa,Casa & Cozinha
+11,2026-02-02,05:27:47,Mouse Gamer 12000 DPI,1077.8,Acessórios,ativo,Moda
+2,2026-02-02,15:04:36,Tênis Running Leve,2207.01,Sustentável,em baixa,Esportes
+5,2026-02-02,15:06:12,Mochila Notebook 15.6,1536.82,Acessórios,ativo,Moda
+15,2026-02-02,23:26:30,Power Bank 20.000mAh,1373.77,Premium,produzinho,Beleza
+27,2026-02-02,05:21:29,Livro Best‑Seller,1368.26,Importado,em baixa,Beleza
+30,2026-02-02,12:16:27,Lego Compatível 500 peças,1754.18,Premium,ativo,Casa & Cozinha
+2,2026-02-02,15:39:11,Tênis Running Leve,1194.88,Premium,em baixa,Eletrônicos
+15,2026-02-02,07:40:25,Power Bank 20.000mAh,1401.56,Acessórios,ativo,Moda
+10,2026-02-02,08:31:32,Teclado Mecânico RGB,1334.38,Acessórios,ativo,Esportes
+6,2026-02-02,23:01:53,Garrafa Térmica 750ml,2074.84,Acessórios,em baixa,Moda
+14,2026-02-02,12:46:51,Lâmpada Smart LED,1931.9,Premium,produzinho,Esportes
+13,2026-02-02,03:13:33,Câmera de Segurança Wi‑Fi,1859.19,Infantil,em baixa,Eletrônicos
+28,2026-02-02,18:51:22,Caderno Universitário 10 matérias,2204.62,Infantil,produzinho,Beleza
+11,2026-02-02,02:46:20,Mouse Gamer 12000 DPI,171.77,Importado,produzinho,Beleza
+4,2026-02-02,00:37:08,Smartwatch Fitness Pro,1412.31,Básico,em baixa,Beleza
+26,2026-02-02,03:37:46,Shampoo Reparação 500ml,944.12,Acessórios,em baixa,Beleza
+6,2026-02-02,11:08:29,Garrafa Térmica 750ml,287.42,Sustentável,cancelado,Moda
+29,2026-02-02,08:11:09,Boneco Colecionável,158.08,Básico,em baixa,Moda
+20,2026-02-02,22:26:32,Panela Antiaderente 24cm,1041.81,Sustentável,ativo,Casa & Cozinha
+16,2026-02-02,19:51:23,Carregador Turbo USB‑C,490.8,Básico,em baixa,Casa & Cozinha
+28,2026-02-02,14:00:16,Caderno Universitário 10 matérias,248.43,Acessórios,ativo,Eletrônicos
+2,2026-02-02,20:46:42,Tênis Running Leve,586.39,Sustentável,cancelado,Eletrônicos
+28,2026-02-02,06:04:10,Caderno Universitário 10 matérias,236.15,Edição Especial,produzinho,Moda
+29,2026-02-02,13:43:21,Boneco Colecionável,1612.3,Sustentável,em baixa,Eletrônicos
+12,2026-02-02,21:03:15,"Monitor 24"" Full HD",1915.67,Infantil,cancelado,Eletrônicos
+4,2026-02-02,13:09:28,Smartwatch Fitness Pro,1300.53,Premium,produzinho,Eletrônicos
+26,2026-02-02,01:17:08,Shampoo Reparação 500ml,648.31,Sustentável,ativo,Casa & Cozinha
+8,2026-02-02,04:06:49,Liquidificador 1200W,1349.66,Importado,cancelado,Casa & Cozinha
+2,2026-02-02,02:20:06,Tênis Running Leve,652.25,Acessórios,produzinho,Casa & Cozinha
+19,2026-02-02,19:05:24,Kit Ferramentas 46 peças,1024.19,Importado,produzinho,Casa & Cozinha
+7,2026-02-02,14:54:40,Cafeteira Elétrica 30xícaras,1631.87,Premium,ativo,Esportes
+25,2026-02-02,20:21:33,Creme Hidratante 400ml,773.56,Premium,produzinho,Moda
+4,2026-02-02,02:42:47,Smartwatch Fitness Pro,1717.21,Infantil,produzinho,Casa & Cozinha
+6,2026-02-02,23:07:48,Garrafa Térmica 750ml,2476.95,Infantil,ativo,Esportes
+17,2026-02-02,22:10:59,Cabo USB‑C Reforçado 2m,552.35,Premium,produzinho,Eletrônicos
+1,2026-02-02,04:13:58,Camiseta Básica Algodão,430.46,Infantil,em baixa,Casa & Cozinha
+3,2026-02-02,05:59:17,Fone Bluetooth In-Ear,2207.25,Premium,ativo,Casa & Cozinha
+9,2026-02-02,21:05:26,Air Fryer 4L Digital,2112.34,Edição Especial,produzinho,Beleza
+1,2026-02-02,00:11:48,Camiseta Básica Algodão,562.21,Edição Especial,em baixa,Casa & Cozinha
+19,2026-02-02,15:13:58,Kit Ferramentas 46 peças,1250.61,Premium,produzinho,Casa & Cozinha
+5,2026-02-02,21:41:22,Mochila Notebook 15.6,376.51,Básico,em baixa,Eletrônicos
+9,2026-02-02,02:58:32,Air Fryer 4L Digital,898.29,Sustentável,cancelado,Beleza
+30,2026-02-02,17:34:46,Lego Compatível 500 peças,1802.85,Acessórios,em baixa,Esportes
+16,2026-02-02,15:51:56,Carregador Turbo USB‑C,1125.71,Edição Especial,produzinho,Eletrônicos
+17,2026-02-02,18:23:06,Cabo USB‑C Reforçado 2m,1726.65,Acessórios,em baixa,Casa & Cozinha
+11,2026-02-02,02:18:25,Mouse Gamer 12000 DPI,2258.88,Básico,produzinho,Beleza
+24,2026-02-02,08:54:11,Perfume Feminino 100ml,742.37,Básico,produzinho,Casa & Cozinha
+24,2026-02-02,18:00:20,Perfume Feminino 100ml,2416.36,Básico,em baixa,Casa & Cozinha
+23,2026-02-02,02:33:34,Perfume Masculino 100ml,1688.91,Infantil,produzinho,Moda
+29,2026-02-02,13:00:49,Boneco Colecionável,2213.19,Sustentável,cancelado,Casa & Cozinha
+15,2026-02-02,10:32:55,Power Bank 20.000mAh,1884.11,Básico,ativo,Esportes
+1,2026-02-02,23:14:56,Camiseta Básica Algodão,1091.71,Sustentável,ativo,Eletrônicos
+6,2026-02-02,05:54:52,Garrafa Térmica 750ml,544.43,Infantil,ativo,Moda
+12,2026-02-02,23:57:54,"Monitor 24"" Full HD",2413.14,Premium,cancelado,Beleza
+10,2026-02-02,06:45:42,Teclado Mecânico RGB,1872.82,Infantil,produzinho,Casa & Cozinha
+28,2026-02-02,15:58:22,Caderno Universitário 10 matérias,2376.94,Básico,cancelado,Beleza
+28,2026-02-02,03:37:24,Caderno Universitário 10 matérias,516.33,Infantil,produzinho,Beleza
+9,2026-02-02,03:25:28,Air Fryer 4L Digital,1769.8,Sustentável,em baixa,Esportes
+16,2026-02-02,19:07:04,Carregador Turbo USB‑C,1228.03,Edição Especial,em baixa,Eletrônicos
+7,2026-02-02,02:49:12,Cafeteira Elétrica 30xícaras,304.44,Premium,cancelado,Esportes
+29,2026-02-02,19:40:21,Boneco Colecionável,339.84,Edição Especial,cancelado,Eletrônicos
+30,2026-02-02,01:52:48,Lego Compatível 500 peças,834.95,Infantil,cancelado,Eletrônicos
+12,2026-02-02,21:12:16,"Monitor 24"" Full HD",1313.14,Infantil,produzinho,Esportes
+3,2026-02-02,02:34:28,Fone Bluetooth In-Ear,804.39,Premium,em baixa,Beleza
+19,2026-02-02,11:14:08,Kit Ferramentas 46 peças,2360.59,Acessórios,cancelado,Beleza
+29,2026-02-02,12:42:27,Boneco Colecionável,1886.39,Importado,ativo,Moda
+22,2026-02-02,19:26:45,Toalha de Banho Premium,2427.79,Edição Especial,produzinho,Moda
+18,2026-02-02,21:28:28,Organizador de Cabos,5.2,Acessórios,cancelado,Eletrônicos
+13,2026-02-02,22:12:41,Câmera de Segurança Wi‑Fi,105.99,Edição Especial,em baixa,Moda
+16,2026-02-02,15:31:59,Carregador Turbo USB‑C,2115.41,Importado,cancelado,Casa & Cozinha
+17,2026-02-02,21:29:47,Cabo USB‑C Reforçado 2m,2238.99,Básico,cancelado,Moda
+13,2026-02-02,02:42:50,Câmera de Segurança Wi‑Fi,265.41,Acessórios,em baixa,Beleza
+11,2026-02-02,22:46:04,Mouse Gamer 12000 DPI,1279.54,Importado,produzinho,Eletrônicos
+15,2026-02-02,07:30:57,Power Bank 20.000mAh,2321.37,Infantil,cancelado,Moda
+22,2026-02-02,08:48:40,Toalha de Banho Premium,1220.37,Importado,cancelado,Moda
+2,2026-02-02,13:00:27,Tênis Running Leve,924.45,Acessórios,produzinho,Casa & Cozinha
+15,2026-02-02,07:56:55,Power Bank 20.000mAh,1726.43,Sustentável,ativo,Eletrônicos
+1,2026-02-02,09:18:15,Camiseta Básica Algodão,2442.1,Acessórios,ativo,Eletrônicos
+5,2026-02-02,04:03:31,Mochila Notebook 15.6,747.5,Premium,cancelado,Esportes
+25,2026-02-02,13:09:33,Creme Hidratante 400ml,1466.59,Importado,cancelado,Eletrônicos
+5,2026-02-02,16:01:32,Mochila Notebook 15.6,2249.7,Básico,cancelado,Esportes
+5,2026-02-02,22:45:54,Mochila Notebook 15.6,704.02,Edição Especial,ativo,Casa & Cozinha
+13,2026-02-02,08:58:13,Câmera de Segurança Wi‑Fi,581.33,Premium,ativo,Esportes
+30,2026-02-02,09:29:54,Lego Compatível 500 peças,797.46,Edição Especial,ativo,Esportes
+2,2026-02-02,00:04:57,Tênis Running Leve,1987.46,Importado,cancelado,Eletrônicos
+24,2026-02-02,00:17:45,Perfume Feminino 100ml,1607.92,Infantil,produzinho,Eletrônicos
+3,2026-02-02,12:53:42,Fone Bluetooth In-Ear,1888.79,Importado,produzinho,Esportes
+29,2026-02-02,22:32:54,Boneco Colecionável,605.86,Edição Especial,ativo,Casa & Cozinha
+29,2026-02-02,07:25:53,Boneco Colecionável,665.38,Infantil,em baixa,Beleza
+14,2026-02-02,01:15:18,Lâmpada Smart LED,1285.7,Acessórios,cancelado,Eletrônicos
+7,2026-02-02,23:52:43,Cafeteira Elétrica 30xícaras,2209.09,Importado,produzinho,Moda
+10,2026-02-02,02:56:26,Teclado Mecânico RGB,872.02,Básico,cancelado,Moda
+7,2026-02-02,00:25:43,Cafeteira Elétrica 30xícaras,1593.79,Premium,em baixa,Casa & Cozinha
+19,2026-02-02,07:30:21,Kit Ferramentas 46 peças,1672.9,Acessórios,em baixa,Moda
+3,2026-02-02,12:05:39,Fone Bluetooth In-Ear,650.43,Infantil,cancelado,Eletrônicos
+27,2026-02-02,08:45:43,Livro Best‑Seller,2455.07,Básico,em baixa,Eletrônicos
+19,2026-02-02,05:33:11,Kit Ferramentas 46 peças,2487.6,Edição Especial,ativo,Casa & Cozinha
+6,2026-02-02,10:20:20,Garrafa Térmica 750ml,197.24,Infantil,cancelado,Eletrônicos
