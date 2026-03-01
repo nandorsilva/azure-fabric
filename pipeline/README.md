@@ -9,7 +9,6 @@
 
 ![Lab](/images/pipeline-arc.png)
 
-# 📌 Criando nosso Pipeline
 
 # 📌 Criando Nosso Pipeline End-to-End
 
