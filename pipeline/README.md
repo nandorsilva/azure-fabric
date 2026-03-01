@@ -12,9 +12,6 @@
 
 # 📌 Criando Nosso Pipeline End-to-End
 
-
-![Lab](/images/notebook05.png)
-
 Nesta etapa do curso, vamos construir o fluxo completo:
 
 1. 📥 Ingestão para Bronze  
@@ -23,7 +20,6 @@ Nesta etapa do curso, vamos construir o fluxo completo:
 4. 📊 Criação do Modelo Semântico  
 5. 📈 Construção de Relatórios  
 6. 🔁 Orquestração com Pipeline  
-
 
 # 🥉 1. Notebook – `NB_Get_Data_To_Bronze`
 
