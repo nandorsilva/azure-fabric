@@ -21,16 +21,71 @@ Durante o treinamento, o aluno irá implementar:
 - ✅ Modelagem Estrela (Fato e Dimensão)
 - ✅ Consultas analíticas via SQL Endpoint
 - ✅ Otimização de tabelas
-- ✅ Introdução ao Eventhouse e KQL
+
 
 ---
 
 # 🧱 Arquitetura do Curso
 
-A arquitetura implementada no laboratório segue o padrão **Lakehouse + Medalhão**:
+A arquitetura implementada no laboratório segue o padrão **Lakehouse + Arquitetura Medalhão**.
 
+## 🥉 Bronze
+- Dados brutos (raw)
+- Estrutura próxima à origem
+- Pouca ou nenhuma transformação
 
-Todos os dados são armazenados no **OneLake**, utilizando tabelas no formato **Delta Lake**.
+## 🥈 Silver
+- Dados tratados
+- Conversão de tipos
+- Limpeza e padronização
+- Deduplicação
+
+## 🥇 Gold
+- Modelo analítico
+- Estrutura Fato e Dimensão
+- Dados prontos para BI
+
+Todos os dados são armazenados no **OneLake**, utilizando tabelas no formato **Delta Lake**, que adiciona:
+
+- Transações ACID  
+- Versionamento  
+- Time Travel  
+- Suporte a MERGE  
+
+---
+
+# ☁️ O que é o OneLake?
+
+O **OneLake** é o armazenamento central do Microsoft Fabric.
+
+Ele é baseado em **Azure Data Lake Storage Gen2** e funciona como:
+
+> Um Data Lake corporativo unificado para toda a organização.
+
+Características:
+
+- Object Storage distribuído  
+- Arquivos Parquet  
+- Camada transacional Delta  
+- Governança integrada  
+
+---
+
+# 🏗 O que é Lakehouse?
+
+O **Lakehouse** é a camada lógica que organiza os dados dentro do OneLake.
+
+Ele combina:
+
+- Flexibilidade do Data Lake  
+- Governança e performance do Data Warehouse  
+
+Inclui:
+
+- Tabelas Delta  
+- SQL Endpoint automático  
+- Integração com Notebooks Spark  
+- Integração com Modelo Semântico  
 
 ---
 
@@ -118,6 +173,17 @@ Primeiros passos dentro do Fabric:
 
 ---
 
+# 🏢 Workspace
+
+Workspace é a unidade de organização e governança no Fabric.
+
+Ele define:
+
+- Controle de acesso (RBAC)  
+- Isolamento de ambientes  
+- Associação à Capacity  
+- Organização por domínio  
+
 ## 🔹 Criando nosso Primeiro WorkSpace
 ![Lab](/images/woskspace.png)
 
@@ -128,13 +194,20 @@ Workspace Ativo
 ![Lab](/images/woskspace03.png)
 
 
+# 📂 Trabalhando com Lakehouse
 
-# 🏗️ Trabalhando com Lakehouse
+O Lakehouse organiza:
+
+- Pastas (Files)  
+- Tabelas (Tables)  
+- Schema padrão (`dbo`)  
+
+> ⚠️ **Importante**  
+> ⚠️ A pasta `dbo` representa o schema padrão do SQL Endpoint.  
+> Não é estrutura física de armazenamento.
 
 ## 📌 Criar um Lakehouse
 
-
-Criando Lakehouse
 
 ![Lab](/images/lakehouse01.png)
 
@@ -145,9 +218,6 @@ Informe nome `LH_Bronze`
 Observe o Gerenciador do LakeHouse
 ![Lab](/images/lakehouse03.png)
 
-> ⚠️ **Importante**  
-> A pasta dbo representa o schema padrão (default schema) das tabelas no Lakehouse quando acessadas via SQL Endpoint.
-> Ela não é um banco relacional tradicional, mas sim uma organização lógica baseada em schema.
 
 ---
 
@@ -187,14 +257,16 @@ Nome da tabela:20260201_produto
 ---
 
 
-## 🔗 Criar Shortcut no Fabric
+# 🔗 Shortcuts
 
-Os **Shortcuts** permitem apontar para:
+Os **Shortcuts** permitem referenciar dados externos sem copiá-los fisicamente.
 
-- Azure Data Lake Storage
-- Amazon S3
-- Outro Lakehouse
-- Banco KQL (Eventhouse)
+Podem apontar para:
+
+* Azure Data Lake Storage  
+* Amazon S3  
+* Outro Lakehouse  
+* Eventhouse (KQL Database)  
 
 Sem necessidade de copiar os dados fisicamente.
 
@@ -241,6 +313,20 @@ Selecionando o container  `files` criando anteriormente
 
 # 📊 Trabalhando com Tabelas Delta
 
+Ao converter um CSV para Delta, criamos uma estrutura como:
+
+/tables/
+├── part-000.parquet
+└── _delta_log/
+
+Delta adiciona:
+
+* Controle transacional  
+* Versionamento  
+* Suporte a MERGE  
+* Time Travel  
+
+
 ## Vamos criar nosso primeiro Notebook
 
 Nome: Tabela_Delta
@@ -256,8 +342,6 @@ Copiando o endereço ABFS
 ### Execute o notebook `Tabela_Delta` e tenha o resultado abaixo:
 
 ![Lab](/images/notebook04.png)
-
-
 
 
 ---
