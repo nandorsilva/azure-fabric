@@ -1,4 +1,4 @@
-# 🚀 Microsoft Fabric – Curso Prático de Arquitetura Lakehouse
+# 🚀 Microsoft Fabric
 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-blue)
 ![Lakehouse](https://img.shields.io/badge/Architecture-Lakehouse-green)
@@ -17,9 +17,7 @@ Durante o treinamento, o aluno irá implementar:
 - ✅ Lakehouse com OneLake
 - ✅ Arquitetura Medalhão (Bronze / Silver / Gold)
 - ✅ Delta Lake
-- ✅ Upsert com MERGE
 - ✅ Modelagem Estrela (Fato e Dimensão)
-- ✅ Consultas analíticas via SQL Endpoint
 - ✅ Otimização de tabelas
 
 
@@ -31,7 +29,7 @@ A arquitetura implementada no laboratório segue o padrão **Lakehouse + Arquite
 
 ## 🥉 Bronze
 - Dados brutos (raw)
-- Estrutura próxima à origem
+- Estrutura próxima à origem dos dados
 - Pouca ou nenhuma transformação
 
 ## 🥈 Silver
@@ -215,7 +213,8 @@ Informe nome `LH_Bronze`
 
 ![Lab](/images/lakehouse02.png)
 
-Observe o Gerenciador do LakeHouse
+### Observe o Gerenciador do LakeHouse
+
 ![Lab](/images/lakehouse03.png)
 
 
@@ -270,7 +269,7 @@ Podem apontar para:
 
 Sem necessidade de copiar os dados fisicamente.
 
-### Mas antes um lá no portal da azure, criar um Storage Account.
+### Mas antes, lá no portal da azure, vamos criar um Storage Account.
 
 ![Lab](/images/storage01.png)
 
@@ -307,7 +306,7 @@ Selecione a fonte Azure Data Lake Storage Gen2 e crie uma nova conexão.
 Criando a conexão
 ![Lab](/images/Shortcut03.png)
 
-Selecionando o container  `files` criando anteriormente
+Selecionando o container  `files` criado  anteriormente
 ![Lab](/images/Shortcut04.png)
 ---
 
@@ -315,9 +314,12 @@ Selecionando o container  `files` criando anteriormente
 
 Ao converter um CSV para Delta, criamos uma estrutura como:
 
+
+```
 /tables/
 ├── part-000.parquet
 └── _delta_log/
+```
 
 Delta adiciona:
 
@@ -332,7 +334,7 @@ Delta adiciona:
 Nome: Tabela_Delta
 ![Lab](/images/notebook01.png)
 
-Inseri a fonte de dados Lakehouse `LH_Bronze`
+Inserindo a fonte de dados Lakehouse `LH_Bronze`
 
 ![Lab](/images/notebook02.png)
 
@@ -355,7 +357,7 @@ Isso pode gerar o problema conhecido como:
 
 > **Small Files Problem**
 
-Quando há muitos arquivos pequenos, consultas podem ficar lentas.
+Quando há muitos arquivos pequenos, as consultas podem ficar lentas.
 
 ![Lab](/images/otimizador-spark02.png)
 
